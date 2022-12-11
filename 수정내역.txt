@@ -1,0 +1,16 @@
+파일 수정 내역
+
+- html
+ basic.html
+ ddos.html
+ password.html
+
+- py
+ augument_parser.py
+ basic.py
+ ddos.py
+ password.py
+ web.py
+
+- css
+ application.css
